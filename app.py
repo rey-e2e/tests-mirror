@@ -1,4 +1,4 @@
-GREETING = "Hi"
+GREETING = "Hey there"
 
 
 def greet(name):
